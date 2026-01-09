@@ -1,6 +1,6 @@
 # 👁‍🗨 Freak Nexus | One-Man Nexus
 
-![Profile Banner][(https://via.placeholder.com/900x200?text=FREAK+NEXUS)](https://github.com/Requiem-Nexus/Arzoo-portfolio/blob/main/assets/background.webp)
+![Profile Banner][(https://github.com/Requiem-Nexus/Arzoo-portfolio/blob/main/assets/background.webp)]
 
 ### ⚡ About Me
 Self-taught web & digital explorer | HTML, CSS, JS | SEO & UI/UX  
