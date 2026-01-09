@@ -14,10 +14,6 @@ Turning chaos into systems, ideas into tools, potential into power.
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-7928CA?style=for-the-badge)
 ---
 
-### ⚡Top Skills 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Requiem-Nexus&layout=compact&theme=dark)
----
-
 ### 🌌 Philosophy
 *"Turning nothing into potential. Chaos into clarity. Ideas into singularity."*  
 
