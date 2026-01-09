@@ -18,3 +18,5 @@ Turning chaos into systems, ideas into tools, potential into power.
 *"Turning nothing into potential. Chaos into clarity. Ideas into singularity."*  
 
 Operating in the void, building systems others can’t even see.  
+
+![Typing Effect](https://img.shields.io/badge/-</RN>-brightgreen?style=for-the-badge&logo=ghost)
