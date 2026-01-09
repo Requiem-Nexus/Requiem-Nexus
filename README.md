@@ -1,6 +1,4 @@
-# 👁‍🗨 Freak Nexus | One-Man Nexus
-
-![Profile Banner][(https://raw.githubusercontent.com/Requiem-Nexus/Arzoo-portfolio/main/assets/background.png)]
+# 👁‍🗨 Requiem Nexus | One-Man Nexus
 
 ### ⚡ About Me
 Self-taught web & digital explorer | HTML, CSS, JS | SEO & UI/UX  
@@ -14,7 +12,10 @@ Turning chaos into systems, ideas into tools, potential into power.
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SEO](https://img.shields.io/badge/SEO-FF6F61?style=for-the-badge)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-7928CA?style=for-the-badge)
+---
 
+### ⚡Top Skills 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Requiem-Nexus&layout=compact&theme=dark)
 ---
 
 ### 🌌 Philosophy
